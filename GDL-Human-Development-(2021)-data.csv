@@ -1,0 +1,30 @@
+Country,Continent,ISO_Code,Level,GDLCODE,Region,Subnational HDI,Health index,Educational index ,Income index
+India,Asia/Pacific,IND,National,INDt,Total,0.633,0.727,0.552,0.633
+India,Asia/Pacific,IND,Subnat,INDr101,Andhra Pradesh,0.63,0.734,0.517,0.66
+India,Asia/Pacific,IND,Subnat,INDr125,Arunachal Pradesh,0.665,0.767,0.575,0.665
+India,Asia/Pacific,IND,Subnat,INDr102,Assam,0.597,0.714,0.53,0.564
+India,Asia/Pacific,IND,Subnat,INDr103,Bihar,0.571,0.712,0.48,0.544
+India,Asia/Pacific,IND,Subnat,INDr129,Chhattisgarh,0.605,0.689,0.528,0.609
+India,Asia/Pacific,IND,Subnat,INDr104,Goa,0.751,0.809,0.696,0.752
+India,Asia/Pacific,IND,Subnat,INDr105,Gujarat,0.638,0.745,0.519,0.669
+India,Asia/Pacific,IND,Subnat,INDr106,Haryana,0.691,0.756,0.613,0.713
+India,Asia/Pacific,IND,Subnat,INDr107,Himachal Pradesh,0.703,0.757,0.649,0.709
+India,Asia/Pacific,IND,Subnat,INDr128,Jharkhand,0.589,0.715,0.512,0.557
+India,Asia/Pacific,IND,Subnat,INDr109,Karnataka,0.667,0.777,0.567,0.673
+India,Asia/Pacific,IND,Subnat,INDr110,Kerala,0.752,0.834,0.713,0.716
+India,Asia/Pacific,IND,Subnat,INDr111,Madhya Pradesh,0.596,0.693,0.509,0.6
+India,Asia/Pacific,IND,Subnat,INDr112,Maharashtra,0.688,0.779,0.62,0.676
+India,Asia/Pacific,IND,Subnat,INDr113,Manipur,0.678,0.783,0.656,0.606
+India,Asia/Pacific,IND,Subnat,INDr114,Meghalaya,0.643,0.753,0.572,0.616
+India,Asia/Pacific,IND,Subnat,INDr115,Mizoram,0.688,0.725,0.636,0.705
+India,Asia/Pacific,IND,Subnat,INDr116,Nagaland,0.67,0.767,0.614,0.639
+India,Asia/Pacific,IND,Subnat,INDr117,Orissa,0.597,0.717,0.505,0.587
+India,Asia/Pacific,IND,Subnat,INDr118,Punjab,0.694,0.765,0.598,0.729
+India,Asia/Pacific,IND,Subnat,INDr119,Rajasthan,0.638,0.725,0.543,0.66
+India,Asia/Pacific,IND,Subnat,INDr120,Sikkim,0.702,0.785,0.644,0.683
+India,Asia/Pacific,IND,Subnat,INDr121,Tamil Nadu,0.686,0.791,0.608,0.671
+India,Asia/Pacific,IND,Subnat,INDr130,Telangana,0.647,0.748,0.542,0.667
+India,Asia/Pacific,IND,Subnat,INDr126,Tripura,0.629,0.773,0.549,0.586
+India,Asia/Pacific,IND,Subnat,INDr123,Uttar Pradesh,0.592,0.667,0.524,0.591
+India,Asia/Pacific,IND,Subnat,INDr127,Uttaranchal,0.672,0.733,0.609,0.678
+India,Asia/Pacific,IND,Subnat,INDr122,West Bengal,0.624,0.761,0.534,0.598
